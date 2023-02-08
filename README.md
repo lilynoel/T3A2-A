@@ -32,4 +32,4 @@ The target audience for this site is those looking for feedback on various popul
 
 ## R6 Screenshots of your Trello board throughout the duration of your project  -->
 
-![logo](docs/logo.png)
+<!-- ![logo](docs/logo.png) -->
