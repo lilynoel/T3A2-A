@@ -2,10 +2,10 @@
 Developer Team: PJ & Lily Noël
 
 ## R1. Description
-Bone & Biscuit is a consumer driven review site for popular dog food brands.
+Bone & Biscuit is an online store for a local canine bakery specializing in baked biscuits and treats for dogs. 
 
 #### Purpose
-The purpose of this application is to provide a space for dog owners to both seek out and contribute to a public review and rating system for dog food based on their own experiences. 
+- The purpose of this application is to provide a service for dog owners to both seek out and place an order for artisan dog treats. 
 
 <!-- 
 
@@ -18,10 +18,12 @@ The purpose of this application is to provide a space for dog owners to both see
 - -->
 
 #### Target audience
-The target audience for this site is those looking for feedback on various popular dog food varieties. 
+- This application is geared towards consumers looking to place an online order of artisan dog treats which they can then pickup at the store's physical location. 
 
-<!-- #### Tech Stack
+<!-- #### Tech Stack -->
 
+
+<!-- 
 ## R2. Dataflow Diagram 
 
 ## R3. Application Architecture Diagram
