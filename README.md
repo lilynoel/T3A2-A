@@ -71,16 +71,16 @@ Home screen | Signed in <br>
 Home screen | Guest user <br>
 ![homeOut.png](docs/homeOut.png)
 
-Product page | Signed in. <br>
+Product page | Signed in <br>
 ![itemIn.png](docs/itemIn.png)
 
 Product page | Guest user <br>
 ![itemOut.png](docs/itemOut.png)
 
-Sign in page. <br>
+Sign in page <br>
 ![signIn.png](docs/signIn.png)
 
-Sign up page. <br>
+Sign up page <br>
 ![signUp.png](docs/signUp.png)
 
 </h4>
@@ -90,7 +90,11 @@ Sign up page. <br>
 
 #
 
+<h5 align="center">
 
-<!-- ## R6 Screenshots of your Trello board throughout the duration of your project  -->
+![logo.png](docs/logo.png)
 
-<!-- ![logo](docs/logo.png) -->
+Bone & Biscuit. © 2023 PJ & Lily Noël.
+
+</h5>
+
