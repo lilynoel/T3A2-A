@@ -45,7 +45,6 @@ The goal of an admin user is to update available products and quantities.
 <br>
 
 - As an admin user it is important that this application offers the capabilities for me to update and adjust quantities as I replenish my stock of baked goods and to ensure that stock numbers are accurate + the ability to make changes to stock numbers where necessary. 
-<br>
 
 #### Guest users
 The goal of a guest user is to view the menu of available baked goods and their corresponding prices and to locate address and contact information for Bone & Biscuit's storefront. 
@@ -55,10 +54,12 @@ The goal of a guest user is to view the menu of available baked goods and their 
 <br>
 
 - The option to sign up / register is important as a guest or visitor to the application. If I enjoy my preliminary experience of the application, and it aligns with my needs I will then expect the capability of registering to the application's services to place an order. 
-<br>
   
 #### Members
 The goal of a member in addition to the guest user goals, is to place an online order of freshly baked treats for my dog that I can conveniently collect at the Bone & Biscuit bakery location.
+<br>
+
+- As a member you have the ability to access the website in its full state as a guest user except with the ability to reserve baked goods for pickup.  
 
 ## R5. Wireframes
 
