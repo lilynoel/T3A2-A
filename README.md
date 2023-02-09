@@ -1,11 +1,20 @@
-# <b> T3A2-A • Bone & Biscuit </b>
-Developer Team: PJ & Lily Noël
+# <b> T3A2-A • Full Stack App (Part A)</b>
+
+![store.png](docs/store.png)
+
+#
+
+#### Application Name
+Bone & Biscuit 
+
+#### Dev Team
+PJ & Lily Noël
 
 ## R1. Description
-Bone & Biscuit is an online store for a local canine bakery specializing in baked biscuits and treats for dogs. 
+Bone & Biscuit is an online store for a local small business specializing in edible baked goods for dogs. 
 
 #### Purpose
-- The purpose of this application is to provide a service for dog owners to both seek out and place an order for artisan dog treats. 
+- The purpose of this application is to provide a service for dog owners to both seek out and place an order for freshly baked artisan dog treats that can be paid for on collection at the bakery's physical location. 
 
 <!-- 
 
@@ -18,7 +27,7 @@ Bone & Biscuit is an online store for a local canine bakery specializing in bake
 - -->
 
 #### Target audience
-- This application is geared towards consumers looking to place an online order of artisan dog treats which they can then pickup at the store's physical location. 
+- This application is geared towards consumers looking to place an online order of artisan dog treats. The key demographic for this product is anticipated to be primarily the dog's human. 
 
 <!-- #### Tech Stack -->
 
@@ -32,21 +41,34 @@ Bone & Biscuit is an online store for a local canine bakery specializing in bake
 
 ## R5. Wireframes for multiple standard screen sizes, created using industry standard software
 
-#### Home screen logged in.
+- Home screen logged in
 ![homeIn.png](docs/homeIn.png)
-#### Home screen logged out.
+
+- Home screen logged out
 ![homeOut.png](docs/homeOut.png)
-#### Product page logged in.
+
+- Product page logged in
 ![itemIn.png](docs/itemIn.png)
-#### Product page logged out.
+
+Product page logged out
 ![itemOut.png](docs/itemOut.png)
-#### Sign in page.
+
+- Sign in page
 ![signIn.png](docs/signIn.png)
-#### Sign up page.
+
+- Sign up page
 ![signUp.png](docs/signUp.png)
 
 
 
 <!-- ## R6 Screenshots of your Trello board throughout the duration of your project  -->
 
-<!-- ![logo](docs/logo.png) -->
+
+#
+
+<h5 align="center">
+
+Bone & Biscuit. © 2023 PJ & Lily Noël.
+![logo.png](docs/logo.png)
+
+</h5>
