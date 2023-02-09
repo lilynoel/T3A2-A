@@ -1,10 +1,11 @@
 # <b> T3A2-A • Full Stack App (Part A)</b>
 
-![store.png](docs/store.png)
-### Application Name
-Bone & Biscuit 
+<img src="https://i.ibb.co/Gsyr05p/logo-1.png" width="350" title="floof">
 
-### Dev Team
+### Application Name
+Bone & Biscuit
+
+### Developer Team
 PJ & Lily Noël
 
 ## R1. Description
@@ -38,27 +39,33 @@ Bone & Biscuit is an online store for a local small business specializing in edi
 
 ## R5. Wireframes for multiple standard screen sizes, created using industry standard software
 
-<h3 align="center">
+<h4 align="center">
 
-Home screen logged in
+Home screen logged in <br>
+
 ![homeIn.png](docs/homeIn.png)
 
-Home screen logged out
+Home screen logged out <br>
+
 ![homeOut.png](docs/homeOut.png)
 
-Product page logged in
+Product page logged in <br>
+
 ![itemIn.png](docs/itemIn.png)
 
-Product page logged out
+Product page logged out <br>
+
 ![itemOut.png](docs/itemOut.png)
 
-Sign in page
+Sign in page <br>
+
 ![signIn.png](docs/signIn.png)
 
-Sign up page
+Sign up page <br>
+
 ![signUp.png](docs/signUp.png)
 
-</h3>
+</h4>
 
 <!-- ## R6 Screenshots of your Trello board throughout the duration of your project  -->
 
