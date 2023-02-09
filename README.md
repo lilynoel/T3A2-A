@@ -37,23 +37,23 @@ Bone & Biscuit is an online store for a local small business specializing in edi
 
 ## R4. User Stories -->
 
-## R5. Wireframes for multiple standard screen sizes, created using industry standard software
+## R5. Wireframes
 
 <h4 align="center">
 
-Home screen logged in <br>
+Home screen | Signed in <br>
 
 ![homeIn.png](docs/homeIn.png)
 
-Home screen logged out <br>
+Home screen | Guest user <br>
 
 ![homeOut.png](docs/homeOut.png)
 
-Product page logged in <br>
+Product page | Signed in <br>
 
 ![itemIn.png](docs/itemIn.png)
 
-Product page logged out <br>
+Product page | Guest user <br>
 
 ![itemOut.png](docs/itemOut.png)
 
