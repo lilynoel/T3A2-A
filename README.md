@@ -1,9 +1,6 @@
 # <b> T3A2-A • Full Stack App (Part A)</b>
 
 ![store.png](docs/store.png)
-
-#
-
 #### Application Name
 Bone & Biscuit 
 
@@ -50,7 +47,7 @@ Bone & Biscuit is an online store for a local small business specializing in edi
 - Product page logged in
 ![itemIn.png](docs/itemIn.png)
 
-Product page logged out
+- Product page logged out
 ![itemOut.png](docs/itemOut.png)
 
 - Sign in page
@@ -66,9 +63,11 @@ Product page logged out
 
 #
 
+
 <h5 align="center">
 
-Bone & Biscuit. © 2023 PJ & Lily Noël.
 ![logo.png](docs/logo.png)
+
+Bone & Biscuit. © 2023 PJ & Lily Noël.
 
 </h5>
