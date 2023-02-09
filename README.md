@@ -28,10 +28,25 @@ Bone & Biscuit is an online store for a local canine bakery specializing in bake
 
 ## R3. Application Architecture Diagram
 
-## R4. User Stories 
+## R4. User Stories -->
 
 ## R5. Wireframes for multiple standard screen sizes, created using industry standard software
 
-## R6 Screenshots of your Trello board throughout the duration of your project  -->
+#### Home screen logged in.
+![homeIn.png](docs/homeIn.png)
+#### Home screen logged out.
+![homeOut.png](docs/homeOut.png)
+#### Product page logged in.
+![itemIn.png](docs/itemIn.png)
+#### Product page logged out.
+![itemOut.png](docs/itemOut.png)
+#### Sign in page.
+![signIn.png](docs/signIn.png)
+#### Sign up page.
+![signUp.png](docs/signUp.png)
+
+
+
+<!-- ## R6 Screenshots of your Trello board throughout the duration of your project  -->
 
 <!-- ![logo](docs/logo.png) -->
