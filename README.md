@@ -1,6 +1,9 @@
-# <b> T3A2-A • Full Stack App (Part A)</b>
+# T3A2-A • Full Stack App (Part A)
 
-![store.png](docs/store.png)
+<img align="center" width="450" src="docs/store.png"/>
+
+
+<!-- ![store.png](docs/store.png) -->
 
 ### Application Name
 Bone & Biscuit
