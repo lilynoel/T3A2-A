@@ -66,23 +66,21 @@ The goal of a member in addition to the guest user goals, is to place an online 
 <h4 align="center">
 
 Home screen | Signed in <br>
-
 ![homeIn.png](docs/homeIn.png)
-#### Home screen | Guest user <br>
-.
-![homeOut.png](docs/homeOut.png)
-#### Product page | Signed in. <br>
 
+Home screen | Guest user <br>
+![homeOut.png](docs/homeOut.png)
+
+Product page | Signed in. <br>
 ![itemIn.png](docs/itemIn.png)
 
 Product page | Guest user <br>
-
 ![itemOut.png](docs/itemOut.png)
-#### Sign in page. <br>
 
+Sign in page. <br>
 ![signIn.png](docs/signIn.png)
-#### Sign up page. <br>
 
+Sign up page. <br>
 ![signUp.png](docs/signUp.png)
 
 </h4>
