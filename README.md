@@ -9,10 +9,10 @@ Bone & Biscuit
 PJ & Lily Noël
 
 ## R1. Description
-Bone & Biscuit is an online store for a local small business specializing in edible baked goods for dogs. 
+Bone & Biscuit is an online store for a local canine bakery specializing in baked biscuits and treats for dogs. 
 
 #### Purpose
-- The purpose of this application is to provide a service for dog owners to both seek out and place an order for freshly baked artisan dog treats that can be paid for on collection at the bakery's physical location. 
+- The purpose of this application is to provide a service for dog owners to both seek out and place an order for artisan dog treats. 
 
 <!-- 
 
@@ -24,8 +24,8 @@ Bone & Biscuit is an online store for a local small business specializing in edi
   
 - -->
 
-#### Target audience
-- This application is geared towards consumers looking to place an online order of artisan dog treats. The key demographic for this product is anticipated to be primarily the dog's human. 
+#### Target audience 
+- This application is geared towards consumers looking to place an online order of artisan dog treats which they can then pickup at the store's physical location. 
 
 #### Tech Stack
 This application was built using Rails 7.0.4.2, Ruby 3.1.1, React.js, JavaScript, HTML & CSS. The database used is PostgresQL and the app was deployed with Heroku. Images were hosted using Wix & ImgBB. <!-- may need to be updated closer to deployment -->
@@ -67,24 +67,20 @@ The goal of a member in addition to the guest user goals, is to place an online 
 Home screen | Signed in <br>
 
 ![homeIn.png](docs/homeIn.png)
-
-Home screen | Guest user <br>
-
+#### Home screen | Guest user <br>
+.
 ![homeOut.png](docs/homeOut.png)
-
-Product page | Signed in <br>
+#### Product page | Signed in. <br>
 
 ![itemIn.png](docs/itemIn.png)
 
 Product page | Guest user <br>
 
 ![itemOut.png](docs/itemOut.png)
-
-Sign in page <br>
+#### Sign in page. <br>
 
 ![signIn.png](docs/signIn.png)
-
-Sign up page <br>
+#### Sign up page. <br>
 
 ![signUp.png](docs/signUp.png)
 
@@ -96,10 +92,6 @@ Sign up page <br>
 #
 
 
-<h5 align="center">
+<!-- ## R6 Screenshots of your Trello board throughout the duration of your project  -->
 
-![logo.png](docs/logo.png)
-
-Bone & Biscuit. © 2023 PJ & Lily Noël.
-
-</h5>
+<!-- ![logo](docs/logo.png) -->
