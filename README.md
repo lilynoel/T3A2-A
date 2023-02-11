@@ -14,15 +14,11 @@ Bone & Biscuit is an online store for a local canine bakery specializing in bake
 #### Purpose
 - The purpose of this application is to provide a service for dog owners to both seek out and place an order for artisan dog treats. 
 
-<!-- 
-
 #### Functionality / Features
 - User sign up / login 
-- Create a new review
-- Select a star rating 
-- Edit & destroy own ratings  
-  
-- -->
+- View products
+- Place an order
+- Edit & destroy own listings (admin)
 
 #### Target audience 
 - This application is geared towards consumers looking to place an online order of artisan dog treats which they can then pickup at the store's physical location. 
@@ -31,9 +27,10 @@ Bone & Biscuit is an online store for a local canine bakery specializing in bake
 This application was built using Rails 7.0.4.2, Ruby 3.1.1, React.js, JavaScript, HTML & CSS. The database used is PostgresQL and the app was deployed with Heroku. Images were hosted using Wix & ImgBB. <!-- may need to be updated closer to deployment -->
 
 <!-- 
-## R2. Dataflow Diagram 
+## R2. Dataflow Diagram -->
 
-## R3. Application Architecture Diagram -->
+## R3. Application Architecture Diagram 
+![diagram.png](docs/diagram.png)
 
 ## R4. User Stories 
 In the context of this application, users will be categorized into "Admin user", "Guest users" and "Members".
@@ -59,7 +56,7 @@ The goal of a guest user is to view the menu of available baked goods and their 
 The goal of a member in addition to the guest user goals, is to place an online order of freshly baked treats for my dog that I can conveniently collect at the Bone & Biscuit bakery location.
 <br>
 
-- As a member you have the ability to access the website in its full state as a guest user except with the ability to reserve baked goods for pickup.  
+- Members have access to the website in its full state as per the guest user  experience  with the added ability to reserve baked goods for pickup.  
 
 ## R5. Wireframes
 
