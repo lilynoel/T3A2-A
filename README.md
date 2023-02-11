@@ -97,8 +97,15 @@ Sign up page
 
 </h4>
 
-<!-- ## R6 Screenshots of your Trello board throughout the duration of your project  -->
+## R6 Trello board
 
+<h4 align="center">
+
+![trello1.png](docs/trello1.png)
+
+<br>
+
+</h4>
 
 #
 
