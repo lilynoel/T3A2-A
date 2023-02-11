@@ -97,7 +97,7 @@ Sign up page
 
 </h4>
 
-## R6 Trello board
+## R6. Trello
 
 <h4 align="center">
 
