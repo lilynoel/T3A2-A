@@ -12,23 +12,20 @@ PJ & Lily Noël
 Bone & Biscuit is an online store for a local canine bakery specializing in baked biscuits and treats for dogs. 
 
 #### Purpose
-- The purpose of this application is to provide a service for dog owners to both seek out and place an order for artisan dog treats. 
+The purpose of this application is to provide a service for dog owners to both seek out and place an order for artisan dog treats. 
 
-<!-- 
 
 #### Functionality / Features
-- User sign up / login 
-- Create a new review
-- Select a star rating 
-- Edit & destroy own ratings  
+A user may view all products in the store but must sign up or login to make a purchase.
+
+The admin has full CRUD function with the ability to create, read, update and destroy products and stock counts.
   
-- -->
 
 #### Target audience 
-- This application is geared towards consumers looking to place an online order of artisan dog treats which they can then pickup at the store's physical location. 
+This application is geared towards consumers looking to place an online order of artisan dog treats which they can then pickup at the store's physical location. 
 
 #### Tech Stack
-This application was built using Rails 7.0.4.2, Ruby 3.1.1, React.js, JavaScript, HTML & CSS. The database used is PostgresQL and the app was deployed with Heroku. Images were hosted using Wix & ImgBB. <!-- may need to be updated closer to deployment -->
+This application was built using Rails 7.0.4.2, Ruby 3.1.1, React.js, JavaScript, HTML & CSS. The database used is PostgresQL and the app will be deployed with Heroku. Images were hosted using Wix & ImgBB.
 
 <!-- 
 ## R2. Dataflow Diagram 
@@ -104,6 +101,8 @@ Sign up page
 ![trello1.png](docs/trello1.png)
 
 <br>
+
+![trello2.png](docs/trello2.png)
 
 </h4>
 
