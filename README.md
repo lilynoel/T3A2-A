@@ -108,6 +108,10 @@ Sign up page
 
 ![trello2.png](docs/trello2.png)
 
+<br>
+
+![trello3.png](docs/trello3.png)
+
 </h4>
 
 #
