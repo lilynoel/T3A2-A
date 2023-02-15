@@ -85,12 +85,32 @@ Home screen | Guest user
 Product page | Signed in 
 <br>
 
-![itemIn.png](docs/itemIn.png)
+![itemIn.png](docs/productIn.png)
 
 Product page | Guest user 
 <br>
 
-![itemOut.png](docs/itemOut.png)
+![itemOut.png](docs/productOut.png)
+
+Product page | Admin user
+<br>
+
+![productA.png](docs/productA.png)
+
+Item page | User
+<br>
+
+![productA.png](docs/itemIn.png)
+
+Item page | Guest user
+<br>
+
+![productA.png](docs/itemOut.png)
+
+Item page | Admin user
+<br>
+
+![productA.png](docs/itemA.png)
 
 Sign in page
 <br>
@@ -141,4 +161,3 @@ Sign up page
 Bone & Biscuit. © 2023 PJ & Lily Noël.
 
 </h5>
-
