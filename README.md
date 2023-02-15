@@ -12,28 +12,57 @@ PJ & Lily Noël
 Bone & Biscuit is an online store for a local canine bakery specializing in baked biscuits and treats for dogs. 
 
 #### Purpose
-- The purpose of this application is to provide a service for dog owners to both seek out and place an order for artisan dog treats. 
+- The purpose of this application is to provide a service for dog owners to both seek out and place an order for artisan dog treats. Bone & Biscuit offers an online ordering system where consumers may place an order for collection.  Payments are not handled by the application. Payment is made on collection of the product in store. 
 
 
 #### Functionality / Features
 
-Users
+##### Guest users
+
+- User sign up / register
+- View products 
+
+##### Signed in users
+
 - User sign up / login 
 - View products
 - Place order
 
-Admin
+##### Admin
+
 - Create new products listing
 - Edit product listings
 - Destroy product listings
 - Action orders 
+- Update orders 
+- View orders
   
 
 #### Target audience 
-This application is geared towards consumers looking to place an online order of artisan dog treats which they can then pickup at the store's physical location. 
+This application is geared towards consumers looking to place an online order of artisan dog treats which they can then pickup / process payment at the store's physical location. 
 
 #### Tech Stack
-This application was built using Rails 7.0.4.2, Ruby 3.1.1, React.js, JavaScript, HTML & CSS. The database used is PostgresQL and the app is deployed with netlify for front-end and Heroku for the back-end. Images were hosted using Wix & ImgBB.
+This application was built using Rails 7.0.4.2, Ruby 3.1.1, React.js, JavaScript, HTML & CSS. The database used is PostgresQL and the app is deployed with netlify for front-end and Heroku for the back-end. We plan to host our images using Wix and ImageBB.
+
+
+##### Source Control
+
+- Github
+- Git
+
+##### Project Management & Delegation
+- Trello
+
+##### Documentation
+- Canva
+- Miro
+- Google Sheets
+- Drawio
+
+
+##### Image Hosting
+- Image BB
+- Wix
 
 ## R2. Dataflow Diagram
 ![flow.png](docs/flow.png)
@@ -46,7 +75,7 @@ This application was built using Rails 7.0.4.2, Ruby 3.1.1, React.js, JavaScript
 In the context of this application, users will be categorized into "Admin user", "Guest users" and "Members".
 
 #### Admin user
-The goal of an admin user is to update available products and quantities.
+The goal of an admin user is to update available products and quantities and to process orders.
 
 - As an admin user, its important that I can post, edit, delete and view my listings and that no one else can access those features on my product listings beyond viewing and ordering. 
 <br>
@@ -57,16 +86,16 @@ The goal of an admin user is to update available products and quantities.
 The goal of a guest user is to view the menu of available baked goods and their corresponding prices and to locate address and contact information for Bone & Biscuit's storefront. 
 <br>
 
-- As a guest or visitor to the Bone & Biscuit web application, I'd like to have the option of navigating the site seamlessly, have an understanding of what the application does / it's purpose and experience some of the app's features such as viewing a listing. 
+- As a guest or visitor to the Bone & Biscuit web application, I'd like to have the option of navigating the site seamlessly, have an understanding of what the application does / it's purpose and experience some of the app's features such as viewing a product listing. 
 <br>
 
 - The option to sign up / register is important as a guest or visitor to the application. If I enjoy my preliminary experience of the application, and it aligns with my needs I will then expect the capability of registering to the application's services to place an order. 
   
 #### Members
-The goal of a member in addition to the guest user goals, is to place an online order of freshly baked treats for my dog that I can conveniently collect at the Bone & Biscuit bakery location.
+The goal of a member in addition to the guest user goals, is to place an online order of freshly baked treats for my dog that I can conveniently collect at the Bone & Biscuit bakery location and to also view my own orders. 
 <br>
 
-- Members have access to the website in its full state as per the guest user  experience  with the added ability to reserve baked goods for pickup.  
+- Members have access to the website in its full state as per the guest user  experience  with the added ability to reserve baked goods for pickup and to view their existing orders & order status. 
 
 ## R5. Wireframes
 
