@@ -33,10 +33,11 @@ Admin
 This application is geared towards consumers looking to place an online order of artisan dog treats which they can then pickup at the store's physical location. 
 
 #### Tech Stack
-This application was built using Rails 7.0.4.2, Ruby 3.1.1, React.js, JavaScript, HTML & CSS. The database used is PostgresQL and the app will be deployed with Heroku. Images were hosted using Wix & ImgBB.
+This application was built using Rails 7.0.4.2, Ruby 3.1.1, React.js, JavaScript, HTML & CSS. The database used is PostgresQL and the app is deployed with netlify for front-end and Heroku for the back-end. Images were hosted using Wix & ImgBB.
 
-<!-- 
-## R2. Dataflow Diagram -->
+## R2. Dataflow Diagram
+![flow.png](docs/flow.png)
+
 
 ## R3. Application Architecture Diagram 
 ![diagram.png](docs/diagram.png)
@@ -116,6 +117,18 @@ Sign up page
 <br>
 
 ![trello3.png](docs/trello3.png)
+
+<br>
+
+![trello4.png](docs/trello4.png)
+
+<br>
+
+![trello5.png](docs/trello5.png)
+
+<br>
+
+![trello6.png](docs/trello6.png)
 
 </h4>
 
